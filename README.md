@@ -15,3 +15,7 @@ It uses a custom-trained 3D convolutional model and is wrapped in a Streamlit we
  Real-time predictions with confidence scores
 
  create sample videos folder to put your test video and inside data folder create 3 subfolders on name of position of workout and put sample videos in it for training.
+
+
+https://github.com/user-attachments/assets/d96405b5-d0e8-452a-9610-51477b5bad87
+
